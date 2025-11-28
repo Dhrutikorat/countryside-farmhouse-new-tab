@@ -95,14 +95,16 @@ function getRandomQuote(array) {
 }
 
 let lastHour = -1;
+let lastMinute = -1;
 
 function updateBg() {
     const now = new Date();
     let hour = now.getHours();
     let minute = now.getMinutes();
 
-    if (hour === lastHour) return; // Skip if hour hasn't changed
+    if (hour === lastHour && minute === lastMinute) return;
     lastHour = hour;
+    lastMinute = minute;
 
     let message = "";
 
