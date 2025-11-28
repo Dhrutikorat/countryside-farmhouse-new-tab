@@ -27,11 +27,11 @@ This one is intentionally different.
 
 You should use Countryside Farmhouse if you want to:
 
-- Start your browsing with a calm and peaceful view  
-- Build small positive habits like gratitude and self-acknowledgment  
-- Reduce screen stress and mental clutter  
-- Keep your new tab minimal and distraction-free  
-- Create a better digital environment with slow, meaningful design  
+- Start your browsing with a calm and peaceful view
+- Build small positive habits like gratitude and self-acknowledgment
+- Reduce screen stress and mental clutter
+- Keep your new tab minimal and distraction-free
+- Create a better digital environment with slow, meaningful design
 
 It does not try to control your day.  
 It simply helps you start it better.
@@ -40,15 +40,15 @@ It simply helps you start it better.
 
 ## Features
 
-- Time-based countryside farmhouse scenes  
-- Morning, afternoon, sunset, and night themes  
-- Soft, low-contrast visuals that are easy on the eyes  
-- Minimal and distraction-free layout  
-- One Small Habit system for daily life improvement  
-- Lightweight and fast  
-- No ads  
-- No tracking  
-- No data collection  
+- Time-based countryside farmhouse scenes
+- Morning, afternoon, sunset, and night themes
+- Soft, low-contrast visuals that are easy on the eyes
+- Minimal and distraction-free layout
+- One Small Habit system for daily life improvement
+- Lightweight and fast
+- No ads
+- No tracking
+- No data collection
 
 ---
 
@@ -103,6 +103,7 @@ countryside-farmhouse-extension/
 ## Installation (Developer Mode)
 
 1. Open Chrome and go to:
+
    ```
    chrome://extensions
    ```
@@ -112,6 +113,7 @@ countryside-farmhouse-extension/
 3. Click Load unpacked.
 
 4. Select your project folder:
+
    ```plaintext
    countryside-farmhouse-extension/
    ```
@@ -120,17 +122,9 @@ countryside-farmhouse-extension/
 
 ---
 
-## Optional Future Enhancements
+## Feedback & Contributions
 
-Possible future improvements include:
-
-- More refined habit suggestions  
-- Manual day/night mode  
-- Minimal clock  
-- Smooth transitions between scenes  
-- Custom habit themes  
-
----
+If you have suggestions for habits, design improvements, or bug reports, feel free to open an issue on GitHub. This is a personal project shared openly—feedback helps it improve.
 
 ## License
 
