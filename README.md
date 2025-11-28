@@ -19,6 +19,22 @@ No stored data.
 
 ---
 
+## Extension Preview
+
+### Morning View
+![Morning](screenshots/sunrise.png)
+
+### Afternoon View
+![Afternoon](screenshots/afternoon.png)
+
+### Sunset View
+![Sunset](screenshots/sunset.png)
+
+### Night View
+![Night](screenshots/night.png)
+
+---
+
 ## Why You Should Use This
 
 Most new tab pages are distracting or overloaded.
@@ -67,6 +83,12 @@ countryside-farmhouse-extension/
 │   ├── icon16.png
 │   ├── icon48.png
 │   └── icon128.png
+│
+├── screenshots/
+│   ├── sunrise.png
+│   ├── afternoon.png
+│   ├── sunset.png
+│   └── night.png
 │
 ├── newtab.html
 ├── newtab.css
